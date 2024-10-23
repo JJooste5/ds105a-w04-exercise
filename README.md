@@ -4,7 +4,11 @@
 
 My name is Joshua Jooste. I am from the UK, specifically Haywards Heath (near Brighton)
 
-Topics covered:
+![image](./figures/image.png)
+
+This is Rory Stewart, a poltiical idol of mine. Hence, why he represents something about me.
+
+## Topics covered:
 - Terminal commands and file directories
 - Data types
 - Functions
